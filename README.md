@@ -1,7 +1,7 @@
 <!-- ============================ ANIMATED HEADER ============================ -->
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Aravindsavd/Aravind-S/main/header.svg?v=1" alt="Aravind S — Site Reliability Engineer" />
+<img width="100%" src="https://raw.githubusercontent.com/Aravindsavd/Aravindsavd/main/header.svg?v=1" alt="Aravind S — Site Reliability Engineer" />
 
 &nbsp;
 
@@ -18,7 +18,7 @@
 <!-- ============================ INTRO ============================ -->
 ## Hey, I'm Aravind
 
-<img align="right" width="150" src="https://raw.githubusercontent.com/Aravindsavd/Aravind-S/main/mascot.svg?v=1" alt="ops-bot" />
+<img align="right" width="150" src="https://raw.githubusercontent.com/Aravindsavd/Aravindsavd/main/mascot.svg?v=1" alt="ops-bot" />
 
 I'm a Cloud Engineer / Site Reliability Engineer who likes making complex systems reliable, fast, and calm to run, the kind of infrastructure that just works and stays out of the way.
 
@@ -36,7 +36,7 @@ Along the way I've automated Azure cost cleanup, scripted reproducible VM provis
 
 <div align="center">
 
-<img width="600" src="https://raw.githubusercontent.com/Aravindsavd/Aravind-S/main/icons.svg?v=1" alt="What I work with" />
+<img width="600" src="https://raw.githubusercontent.com/Aravindsavd/Aravindsavd/main/icons.svg?v=1" alt="What I work with" />
 
 </div>
 
@@ -45,12 +45,12 @@ Along the way I've automated Azure cost cleanup, scripted reproducible VM provis
 <div align="center">
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/Aravindsavd/Azure-Unused-Resources"><img width="100%" src="https://raw.githubusercontent.com/Aravindsavd/Aravind-S/main/azure-unused.svg?v=1" alt="Azure-Unused-Resources"/></a></td>
-    <td width="50%"><a href="https://github.com/Aravindsavd/Docker-Monitoring"><img width="100%" src="https://raw.githubusercontent.com/Aravindsavd/Aravind-S/main/docker-mon.svg?v=1" alt="Docker-Monitoring"/></a></td>
+    <td width="50%"><a href="https://github.com/Aravindsavd/Azure-Unused-Resources"><img width="100%" src="https://raw.githubusercontent.com/Aravindsavd/Aravindsavd/main/azure-unused.svg?v=1" alt="Azure-Unused-Resources"/></a></td>
+    <td width="50%"><a href="https://github.com/Aravindsavd/Docker-Monitoring"><img width="100%" src="https://raw.githubusercontent.com/Aravindsavd/Aravindsavd/main/docker-mon.svg?v=1" alt="Docker-Monitoring"/></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://github.com/Aravindsavd/MigrationTool"><img width="100%" src="https://raw.githubusercontent.com/Aravindsavd/Aravind-S/main/migration.svg?v=1" alt="MigrationTool"/></a></td>
-    <td width="50%"><a href="https://github.com/Aravindsavd/Terraform-VMcreation"><img width="100%" src="https://raw.githubusercontent.com/Aravindsavd/Aravind-S/main/terraform-vm.svg?v=1" alt="Terraform-VMcreation"/></a></td>
+    <td width="50%"><a href="https://github.com/Aravindsavd/MigrationTool"><img width="100%" src="https://raw.githubusercontent.com/Aravindsavd/Aravindsavd/main/migration.svg?v=1" alt="MigrationTool"/></a></td>
+    <td width="50%"><a href="https://github.com/Aravindsavd/Terraform-VMcreation"><img width="100%" src="https://raw.githubusercontent.com/Aravindsavd/Aravindsavd/main/terraform-vm.svg?v=1" alt="Terraform-VMcreation"/></a></td>
   </tr>
 </table>
 </div>
@@ -75,7 +75,7 @@ Along the way I've automated Azure cost cleanup, scripted reproducible VM provis
 <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aravindsavd&bg_color=0D1117&color=4FD1C5&line=4FD1C5&point=ffffff&area=true&hide_border=true" />
 
 <!-- Animated contribution snake (needs the snake.yml GitHub Action) -->
-<img width="92%" src="https://raw.githubusercontent.com/Aravindsavd/Aravind-S/output/github-contribution-grid-snake-dark.svg" />
+<img width="92%" src="https://raw.githubusercontent.com/Aravindsavd/Aravindsavd/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
