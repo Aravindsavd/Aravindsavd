@@ -1,4 +1,3 @@
-<!-- ============================ ANIMATED HEADER ============================ -->
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/Aravindsavd/Aravindsavd/main/header.svg?v=1" alt="Aravind S — Site Reliability Engineer" />
@@ -15,7 +14,6 @@
 
 </div>
 
-<!-- ============================ INTRO ============================ -->
 ## Hey, I'm Aravind
 
 <img align="right" width="150" src="https://raw.githubusercontent.com/Aravindsavd/Aravindsavd/main/mascot.svg?v=1" alt="ops-bot" />
