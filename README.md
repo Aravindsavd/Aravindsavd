@@ -77,9 +77,6 @@ Along the way I've automated Azure cost cleanup, scripted reproducible VM provis
 
 <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aravindsavd&bg_color=0D1117&color=4FD1C5&line=4FD1C5&point=ffffff&area=true&hide_border=true" />
 
-<!-- Animated contribution snake (needs the snake.yml GitHub Action) -->
-<img width="92%" src="https://raw.githubusercontent.com/Aravindsavd/Aravind-S/output/github-contribution-grid-snake-dark.svg" />
-
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1C2B30,50:182429,100:111A1E&height=42&section=footer&text=Consistency%20is%20the%20key.&fontSize=11&fontColor=6E8E8A&fontAlignY=48" />
